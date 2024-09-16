@@ -1,20 +1,20 @@
 [
     {
-        "nomeProduto": "Aether Gym Pant",
-        "tamanho": "33",
+        "nomeProduto": "Aether Gym Pant", 
+        "tamanho": "32",
         "cor": "Blue",
         "quantidade": 3
     },
     {
-        "nomeProduto": "Apollo Running Short",
-        "tamanho": "32",
+        "nomeProduto": "Apollo Running Short", 
+        "tamanho": "34",
         "cor": "Black",
-        "quantidade": 5
+        "quantidade": 2
     },
     {
-        "nomeProduto": "Atlas Fitness Tank",
-        "tamanho": "M",
-        "cor": "Blue",
-        "quantidade": 8
+        "nomeProduto": "Ariel Roll Sleeve Sweatshirt", 
+        "tamanho": "XS",
+        "cor": "Green",
+        "quantidade": 5
     }
 ]
